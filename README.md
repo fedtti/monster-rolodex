@@ -1,0 +1,3 @@
+# Monsters Rolodex
+
+This is an updated and improved version of [Monster Roledex](https://github.com/ZhangMYihua/monsters-rolodex-complete) by **Yihua Zhang** (@ZhangMYihua) as seen on a [Zero to Mastery](https://zerotomastery.io/) course by him and **Andrei Neagoie** (@aneagoie). It isn’t a fork of the original repository, but a project created from scratch in 2021 that follows [an optimized files and folders structure](https://charles-stover.medium.com/optimal-file-structure-for-react-applications-f3e35ad0a145) for React applications instead. It includes support for both Sass and TypeScript, as well. I also removed Jest and its dependencies, because it wasn’t expected to be used in this project.

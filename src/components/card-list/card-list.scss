@@ -1,0 +1,10 @@
+/* autoprefixer grid: autoplace */
+
+.card-list {
+  display: grid;
+  grid-gap: 1.25rem;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin: 0 auto;
+  max-width: 61.75rem;
+  width: 85vw;
+}

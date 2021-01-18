@@ -1,0 +1,19 @@
+.card-container {
+  backface-visibility: hidden;
+  background-color: #95dada;
+  border: 0.0625rem solid grey;
+  border-radius: 0.3125rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  max-width: 14.5rem;
+  padding: 1.563rem;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.card-contaner:active,
+.card-container:focus,
+.card-container:hover {
+  transform: scale(1.05);
+}
